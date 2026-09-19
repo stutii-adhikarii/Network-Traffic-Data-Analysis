@@ -31,8 +31,8 @@ This project walks through the process of loading, cleaning, exploring, and visu
 | Language | Tools / Libraries          |
 | -------- | --------------------------- |
 | Python   | Jupyter Notebook             |
-|          | pandas, NumPy *(edit as needed)* |
-|          | Matplotlib / Seaborn *(edit as needed)* |
+|          | pandas, NumPy  |
+|          | Matplotlib / Seaborn |
 
 ---
 
